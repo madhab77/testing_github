@@ -2,3 +2,4 @@ This is the third file for git
 this is second check for diff
 4th line not to be deleted
 5th line not to be deleted
+6th line
